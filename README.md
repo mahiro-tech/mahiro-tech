@@ -7,9 +7,9 @@ Pythonをメインで使っています
 ### 使用したことのある言語とツール
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,cs,html,css " />  
-<br><img src="https://skillicons.dev/icons?i=raspberrypi,firebase,gcp " />
+<br><img src="https://skillicons.dev/icons?i=raspberrypi,firebase " />
 </a>
-←gcpはcloud functionsを使用  
+<!--←gcpはcloud functionsを使用-->  
 <br>  
 <br>  
 
