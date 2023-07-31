@@ -1,6 +1,9 @@
-### 自己紹介
-一関工業高等専門学校在籍 情報・ソフトウェア系所属  学内融資団体"ITs" IoT部門統括  就職希望
-###
+### Introduce
+一関工業高等専門学校在籍 情報・ソフトウェア系所属  
+学内融資団体"ITs" IoT部門統括  
+就職希望
+###使用したことのある言語とツール
+![Alt text]("C:\Users\kaede\OneDrive\ドキュメント\個人\git hub\images\Python-Dark.svg")
 ###
 ###
 
