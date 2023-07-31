@@ -1,4 +1,8 @@
-### Hi there 👋
+### 自己紹介
+一関工業高等専門学校在籍 情報・ソフトウェア系所属  学内融資団体"ITs" IoT部門統括  就職希望
+###
+###
+###
 
 <!--
 **mahiro-tech/mahiro-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
